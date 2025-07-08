@@ -33,3 +33,6 @@ brew install --cask calibre
 
 # 或從官網下載
 # https://calibre-ebook.com/download
+
+### 作者 rui-qi.huang
+email:hmc0316@gmail.com
