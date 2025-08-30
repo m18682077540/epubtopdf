@@ -1,4 +1,4 @@
-# epubtopdf
+# epubtopdf ( for MAC OS ) 
 auto transfer epub ebook to pdf 
 # EPUB to PDF Converter
 
